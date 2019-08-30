@@ -36,6 +36,6 @@ mkdir $HOME/Projects/
 export GOPATH=$HOME/Projects
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 
-### Windows Line Endings:
+### Windows Line Endings
 run this command:
 sed -i -e 's/\r$//' setup.sh
