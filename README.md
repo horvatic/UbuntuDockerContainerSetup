@@ -12,7 +12,7 @@ This will add the follow
 cd src/
 ./setup.sh
 
-#Docker How to
+# Docker How to
 
 ## Running:
 docker run --name ubuntu -e HOST_IP=YOUR_HOST_IP -v //SHARDED_DIRVE:/src -t -i ubuntu /bin/bash
