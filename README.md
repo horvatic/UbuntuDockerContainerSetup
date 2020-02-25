@@ -1,5 +1,3 @@
-# THIS PROJECT IS READ OLNY AND HAS BEEN MOVED TO https://github.com/horvatic/DevelopmentEnvironments
-
 # Ubuntu Docker Container Setup
 This is a shell script and other useful tools for a new Ubuntu docker container.
 This will add the follow
